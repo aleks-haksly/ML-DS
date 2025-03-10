@@ -1,5 +1,6 @@
 # ML & DS - Udemy
-A comprehensive [Machine Learning &amp; Data Science](https://www.udemy.com/course/python-machine-learning-data-science-russian/?couponCode=ST1MT31025G1) course, including topics: 
+My exercise and mini projects in course
+[Machine Learning &amp; Data Science](https://www.udemy.com/course/python-machine-learning-data-science-russian/?couponCode=ST1MT31025G1), including topics: 
 - NumPy
 - Pandas
 - Seaborn (Matplotlib)
